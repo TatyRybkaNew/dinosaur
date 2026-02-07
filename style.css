@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+     background-color: aqua;
+     padding: 15px;
+     border-radius:15px ;
+}
+
+
+main {
+     margin:20px;
+}
+
+nav a {
+      text-decoration: none;
+      padding: 5px;
+      border: 1px solid brown ;
+      margin: 10px;
+}
